@@ -1,12 +1,3 @@
-Assignment 3: Record Manager 
-
-Group Number: 4
-
-Name: Siddhi Shukla  	CWID: A20516414
-Name: Anushka Chaubal 	CWID: A20511568
-Name: Rewa Deshpande	CWID: A20492328
-
-
 Code Development:
 1. Connect to the server using Secure Shell (SSH) or any remote access tool.
 2. Navigate to the directory containing Assignment3 using the `cd` command.
